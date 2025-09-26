@@ -1,0 +1,11 @@
+{
+  "spec_dir": "00149524_practica4_seccion1/Ejercicio 3",
+  "spec_files": [
+    "**/*spec.js"
+  ],
+  "helpers": [
+    "helpers/**/*.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
